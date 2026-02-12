@@ -21,6 +21,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 30
 # Use SQLite for quick local testing – switch to postgresql:// in production
 DATABASE_URL = "sqlite:///./test.db"
 
+
 # ────────────────────────────────────────────────
 #  Database
 # ────────────────────────────────────────────────
